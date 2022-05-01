@@ -17,3 +17,5 @@ public class FortuneTeller {
 
     }
 }
+//Only the if block or else block was executed. This is because of scope.
+// Scope of a variable is the part of the program where a piece of code is accessible or in which it can be used.
