@@ -18,4 +18,6 @@ public class SalaryCalculator {
         int yearlySalary = monthlySalary *12 ;
         System.out.println(yearlySalary);
     }
+
+
 }
