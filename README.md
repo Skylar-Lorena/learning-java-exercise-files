@@ -1,7 +1,6 @@
 # LEARN JAVA
 #### May 1st 2022
 #### By **Lorenah M.**
-![LEARN JAVA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.learnjavaonline.org%2F&psig=AOvVaw3jHl0O8an6P8drU5XS36MS&ust=1651493667374000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCvgr6jvvcCFQAAAAAdAAAAABAD)
 
 ## Description
 
@@ -29,8 +28,6 @@ Java
 
 ```bash
 
-```bash
-
 https://github.com/Skylar-Lorena/learning-java-exercise-files.git
 1.Clone or download this repository (link in the section above) to your local machine.
 2.Launch the project in INTELLIJ IDEA STUDIO
@@ -52,6 +49,7 @@ You can reach me via my personal email lorayne911@gmail.com
 
 
 ## License
+```bash
 
 - This project is licensed under the MIT Open Source license Copyright (c) 2022. [LICENCE]()
-
+```
