@@ -13,7 +13,7 @@ public class Question {
         Scanner input = new Scanner(System.in);
         boolean isCorrect = true;
 
-        while (isCorrect) {
+        while (isCorrect) { //  loops until user inputs the correct answer
 //            Print statement to ask the question
             System.out.println("Who is the current president of Kenya?");
 //Print statement to list answer choices
