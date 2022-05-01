@@ -14,14 +14,12 @@ public class Song {
             System.out.println("Would you like to take this song off of repeat? If so, answer yes.");
             String userInput = input.next();
             if(userInput.equals("yes")){
-                isOnRepeat= true;
-                System.out.println("Playing same song again!");
+                isOnRepeat= false;
+                System.out.println("Playing next song!");
+
             }else if (userInput.equals("no")){
                 isOnRepeat= true;
                 System.out.println("Playing same song again!");
-            }else{
-                isOnRepeat= false;
-                System.out.println("Playing next song!");
             }
         }
     }
